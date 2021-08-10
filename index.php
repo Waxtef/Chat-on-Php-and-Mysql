@@ -13,21 +13,21 @@
         <section class="form signup">
             <header>Realtime Chat App</header>
             <form action="#">
-                <div class="error-txt">This is a error message!</div>
+                <div class="error-text">This is a error message!</div>
                 <div class="name-details">
-                   <div class="field">
+                   <div class="field input">
                        <label for="">Primer Nombre</label>
                        <input type="text" placeholder="Primer Nombre">
                    </div> 
-                   <div class="field">
+                   <div class="field input">
                        <label for="">Apellido</label>
                        <input type="text" placeholder="Apellido">
                    </div> 
-                   <div class="field">
+                   <div class="field input">
                        <label for="">Email</label>
                        <input type="text" placeholder="Aexample@gmail.com">
                    </div> 
-                   <div class="field">
+                   <div class="field input">
                        <label for="">Password</label>
                        <input type="text" placeholder="Nuevo Password">
                    </div> 
